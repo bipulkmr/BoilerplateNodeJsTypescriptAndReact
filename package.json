@@ -35,6 +35,8 @@
         "@nestjs/platform-express": "^6.0.0",
         "@nestjs/serve-static": "^1.0.1",
         "@types/http-proxy": "^1.17.0",
+        "@types/prismjs": "^1.16.0",
+        "@types/reactstrap": "^8.0.6",
         "antd": "^3.24.3",
         "babel": "^6.23.0",
         "babel-core": "^6.26.3",
@@ -42,10 +44,14 @@
         "express": "^4.17.1",
         "http": "0.0.0",
         "http-proxy": "^1.18.0",
+        "prism-react-renderer": "^1.0.2",
         "react": "^16.11.0",
         "react-dom": "^16.11.0",
+        "reactstrap": "^8.1.1",
+        "redux": "^4.0.4",
         "reflect-metadata": "^0.1.13",
         "rxjs": "^6.5.3",
+        "video-react": "^0.14.1",
         "winston": "^3.2.1"
     },
     "devDependencies": {

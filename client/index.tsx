@@ -7,8 +7,10 @@ import * as React from "react";
 import * as ReactDOM from "react-dom";
 
 import { Hello } from "./default/hello";
+import PlayerControlExample from "./default/PlayerControlExample";
 
 ReactDOM.render(
-    <Hello compiler="TypeScript" framework="React" />,
+    // <Hello compiler="TypeScript" framework="React" />,
+    <PlayerControlExample />,
     document.getElementById("root")
 );
