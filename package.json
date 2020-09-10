@@ -41,7 +41,7 @@
         "errorhandler": "^1.5.1",
         "express": "^4.17.1",
         "http": "0.0.0",
-        "http-proxy": "^1.18.0",
+        "http-proxy": "^1.18.1",
         "react": "^16.11.0",
         "react-dom": "^16.11.0",
         "reflect-metadata": "^0.1.13",
