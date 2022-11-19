@@ -63,7 +63,7 @@
         "babel-plugin-transform-class-properties": "^6.24.1",
         "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
         "css-loader": "^3.2.0",
-        "html-webpack-plugin": "^3.2.0",
+        "html-webpack-plugin": "^5.5.0",
         "http-proxy-middleware": "^0.20.0",
         "less": "^3.10.3",
         "less-loader": "^5.0.0",
@@ -75,7 +75,7 @@
         "tsconfig-paths-webpack-plugin": "^3.2.0",
         "typescript": "^3.6.4",
         "webpack": "^4.41.2",
-        "webpack-cli": "^3.3.10",
+        "webpack-cli": "^3.3.12",
         "webpack-dev-server": "^3.9.0",
         "webpack-node-externals": "^1.7.2"
     }
